@@ -17,7 +17,7 @@ const Landing = () => {
 
           {/* Use a regular anchor tag for an external link (GitHub repo) */}
           <a
-            href="https://github.com/03brainy-clicks/teachmint-assessment"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
             className="w-full block flex-1"
