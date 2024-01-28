@@ -17,7 +17,7 @@ const Landing = () => {
 
           {/* Use a regular anchor tag for an external link (GitHub repo) */}
           <a
-            href=""
+            href="https://github.com/vikashssingh/teachmint-pizza"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full block flex-1"
